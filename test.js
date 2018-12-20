@@ -19,3 +19,5 @@ let items4 = [...items,"草莓"];
 console.log(items4);
 let items5 = ["鳳梨",...items];
 console.log(items5);
+let items6 = ["柳丁",...items,"mango","lemon"];
+console.log(items6);
