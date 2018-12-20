@@ -1,4 +1,4 @@
-# 陣列Spread與等號的不同
+# 陣列Spread與等號
 ###### tags: `JavaSript` `Array`
 * items 原版
 ```javascript=
