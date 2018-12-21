@@ -7,6 +7,7 @@
 
 >參考網路文件 : https://daveceddia.com/how-does-redux-work/
 >影片 : https://www.youtube.com/watch?v=sX3KeP7v7Kg 
+>影片2：https://www.youtube.com/watch?v=Fq15pkckMqQ&index=3&list=PL7pEw9n3GkoWgIc-Ambc-QZGcTKEei2O3
 
 ### 各範例版本說明如下：
 1. 範例1 Counter的react版
@@ -18,3 +19,4 @@
 7. 範例7 TodoList的react第2版
 8. 範例8 TodoList的react第3版 (大師示範版)
 9. 範例9 TodoList的redux第2版 (大師示範版)
+10. 範例10 Counter的redux進階版
