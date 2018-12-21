@@ -6,7 +6,9 @@
 採 React 版本 & 基礎的 React + Redux 的版本做對照
 
 >參考網路文件 : https://daveceddia.com/how-does-redux-work/
->影片 : https://www.youtube.com/watch?v=sX3KeP7v7Kg 
+>
+>影片 : https://www.youtube.com/watch?v=sX3KeP7v7Kg
+>
 >影片2：https://www.youtube.com/watch?v=Fq15pkckMqQ&index=3&list=PL7pEw9n3GkoWgIc-Ambc-QZGcTKEei2O3
 
 ### 各範例版本說明如下：
